@@ -51,7 +51,25 @@ body p{
     color: #525253;
 }
 
+/* #lapajitaProject img{
+    height: 60px;
+    width: 35px;
+} */
 
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.center img{
+    align-items: center;
+    height: 55px;
+    width: 35px;
+    margin-top: 10px;
+}
+/* .image-logo{
+    background: url("https://s6.gifyu.com/images/favicon-lapajita.png");
+} */
 /* .final-website embed {
     height:600px;
     width: auto;
