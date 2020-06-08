@@ -30,7 +30,7 @@ body p{
 #lapajitaProject h1 {
     text-align: center;
     color: #525253;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: bold;
     line-height: 1.2;
     margin-top: 10px;
@@ -41,8 +41,8 @@ body p{
     color: #525253;
     font-size: 1.1rem;
     line-height: 1.6;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #lapajitaProject .heading{
@@ -63,8 +63,8 @@ body p{
 
 .center img{
     align-items: center;
-    height: 55px;
-    width: 35px;
+    height: 45px;
+    width: 30px;
     margin-top: 10px;
 }
 /* .image-logo{
@@ -82,11 +82,10 @@ body p{
     align-items: center;
 }
 
-video{
+video {
     border-style: none;
-    height: 240px;
+    height: 210px;
     width: 320px;
-   /*  width="320" height="240" */
 }
 
 @media (min-width:770px) and (max-height: 1883px)  {
@@ -101,9 +100,14 @@ video{
     }
     
 #lapajitaProject p{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     padding-right: 25%;
     padding-left: 25%;
+    margin-bottom: 30px;
+}
+.center img{
+    height: 55px;
+    width: 35px;
 }
     
 
